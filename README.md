@@ -3,4 +3,4 @@
 - 🌱 I’m currently mastering Python 3
 - 💞️ I’m looking to collaborate in projects on a thing or another 
 - :grin: I'm looking for help with web development 
-- :u5272: Obvioulsy I can speak in French but I'm quiet good in English too, también parloteo un poco en español и я изучаю русский
+- :u5272: Obvioulsy I can speak French but I'm quiet good in English too, también parloteo un poco en español и я изучаю русский
