@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ci3l
-- 👀 I’m interested in some shit like art, watches, architcutre etc 
-- 🌱 I’m currently learning Python 3
-- 💞️ I’m looking to help people on a project on a thing or another
-- 📫 How to reach me ci3l.phamt0mhive@gmail.com
-
+- 👀 I’m interested in things like art, watches, architecture etc and maybe coding (?)
+- 🌱 I’m currently mastering Python 3
+- 💞️ I’m looking to collaborate in projects on a thing or another 
+- :grin: I'm looking for help with web development 
+- :u5272: Obvioulsy I can speak in French but I'm quiet good in English too, también parloteo un poco en español и я изучаю русский
