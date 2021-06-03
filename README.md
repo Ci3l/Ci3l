@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate in projects on a thing or another 
 - :grin: I'm looking for help with web development 
 - :u5272: Obvioulsy I can speak French but I'm quiet good in English too, también parloteo un poco en español и я изучаю русский
-- :satellite: You can find me on [Quora](https://fr.quora.com/profile/Erwan-Poiré)
+- :satellite: You can find me on [Quora](https://fr.quora.com/profile/Erwan-Poiré) and [Linkedin](https://www.linkedin.com/in/erwan-poiré/)
 - And always remember that my code never has bugs, it just develops random unexpected features. 
