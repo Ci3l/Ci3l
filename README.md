@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ci3l
 - 👀 I’m interested in things like art, watches, architecture etc and maybe coding (?)
-- 🌱 I’m currently mastering C
+- 🌱 I’m currently mastering C++
 - 💞️ I’m looking to collaborate in projects on a thing or another 
 - :grin: I'm looking for help with web development 
 - :u5272: Obvioulsy I can speak French but I'm quiet good in English too, también parloteo un poco en español и я изучаю русский
